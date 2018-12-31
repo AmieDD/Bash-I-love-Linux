@@ -3,7 +3,7 @@
 This Bash template lets you get started quickly with a simple one-page playground.
 
 ```bash runnable
- telnet towel.blinkenlights.nl
+cowsay I Love nix 
 ```
 
 # Advanced usage
