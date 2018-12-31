@@ -1,11 +1,9 @@
-# Welcome!
+# Bash I love Linux
 
-This Bash template lets you get started quickly with a simple one-page playground.
+AmieDD www.amiedd.com
 
 ```bash runnable
 yes I Love Linux
 ```
 
-# Advanced usage
 
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
