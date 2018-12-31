@@ -3,7 +3,7 @@
 This Bash template lets you get started quickly with a simple one-page playground.
 
 ```bash runnable
-cmatrix
+yes I Love Linux
 ```
 
 # Advanced usage
