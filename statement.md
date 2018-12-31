@@ -3,7 +3,7 @@
 This Bash template lets you get started quickly with a simple one-page playground.
 
 ```bash runnable
-cowsay I Love nix 
+yes I Love Linux
 ```
 
 # Advanced usage
